@@ -10,8 +10,8 @@ To conduct the analysis we use the NYC Citi Bike dataset. The data set contains 
 - The length of time that bikes are checked out for all riders and genders.
 - The number of bike trips for each type of user and gender for each day of the week
  The final visualization results are shown as a Tableau story. Python script is written to convert integer time duration to DateTime datatype.
-
-## The Propose of this project is to explore Citibike data, create visualizations, and create a Tableau story that will be used to show investors that a bike-sharing program in Des Moines is a solid business prospect
+ 
+The Propose of this project is to explore Citibike data, create visualizations, and create a Tableau story that will be used to show investors that a bike-sharing program in Des Moines is a solid business prospect
 
 ## Results
 
