@@ -25,14 +25,16 @@ The Propose of this project is to explore Citibike data, create visualizations, 
 
 ### Checkout Times for Users
 
-![Checkout Times for Users by gender.png](https://github.com/smj452/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users%20by%20gender.png)
-
 - 4 to 6 hours was the peak duration bikes were checked out.
 
 ### Checkout Times by Gender
 
+- 4 to 6 hours was the peak duration bikes were checked out.
 - 4 to 6 hours was the peak duration bikes were checked out for Males
 - 5 to 7 hours was the peak duration bikes were checked out for Females
+
+![Checkout Times for Users by gender.png](https://github.com/smj452/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users%20by%20gender.png)
+
 
 ### Trips by Weekday Per Hour
 ![Trips by Weekday per Hour.png](https://github.com/smj452/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20per%20Hour.png)
