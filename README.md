@@ -2,13 +2,14 @@
 
 ## Overview of Project
 
-This project uses Tableau for visualizing NYC Bike Share analysis. Travelers use bikes to explore historic landmarks like Central Park, the Statue of Liberty, and the Empire State Building. There is the potential to start a similar bike-share business in Des Moines, Lowa This study is focused on investors interested in investing in a similar business model focused on Des Moines, Iowa.The first step is to figure out how the bike-share business works in New York City.Second, create a proposal on how it might work in Des Moines.
+This project uses Tableau for visualizing NYC Bike Share analysis. Travelers use bikes to explore historic landmarks like Central Park, the Statue of Liberty, and the Empire State Building. There is the potential to start a similar bike-share business in Des Moines, Lowa. This study is focused on investors interested in investing in a similar business model focused on Des Moines, Iowa. The first step is to figure out how the bike-share business works in New York City. Second, create a proposal on how it might work in Des Moines.
 
 To conduct the analysis I used the NYC Citi Bike dataset. The data set contains trip details for August 2019 which is the busiest period of the year.To solidify the business proposal, one of the key stakeholders would like to see the following in the bike trip analysis:
 
 - The number of bike trips for all riders and genders for each hour of each day of the week.
 - The length of time that bikes are checked out for all riders and genders.
 - The number of bike trips for each type of user and gender for each day of the week
+
  The final visualization results are shown as a Tableau story. Python script is written to convert integer time duration to DateTime datatype.
  
 ## Results
