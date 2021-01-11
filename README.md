@@ -17,7 +17,7 @@ To conduct the analysis I used the NYC Citi Bike dataset. The data set contains 
 ### Overview of Citi Bike Data 
 
 - 2,344,224 Total number of Rides in August.
-- 1,900,356 were Subsriber Users and 443,865 were Customer Users.
+- 1,900,359 were Subsriber Users and 443,865 were Customer Users.
 - 1,530,272 were Males, 588,431 were Females and 225,521 were Unknown users.
 - Peak Trip start time in August was 5 pm.
 - Lowest Trip hours were between 1am-5am
