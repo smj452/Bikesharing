@@ -60,7 +60,7 @@ To conduct the analysis I used the NYC Citi Bike dataset. The data set contains 
 
 Top Starting and Ending Locations are marked by Large dark circles.
 
-[Link to Story](https://us-west-2b.online.tableau.com/#/site/shanu/views/DesMoinesBikeShare/DesMoinesBikeShare?:iid=3)
+[Link to Story](https://public.tableau.com/views/DesMoinesBikeShare_16103914364210/DesMoinesBikeShare?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ## Summary
 
