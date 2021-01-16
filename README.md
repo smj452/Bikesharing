@@ -64,7 +64,7 @@ Top Starting and Ending Locations are marked by Large dark circles.
 
 ## Summary
 
-Based on thwe above analysis we can conclude that:
+Based on the above analysis we can conclude that:
 - The highest number of male and female customers use the bike-share services during the weekends.
 - Checkout times are higly variable for male and female riders.
 
